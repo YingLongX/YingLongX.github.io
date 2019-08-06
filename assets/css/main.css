@@ -2564,6 +2564,20 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.roundimage {
+			border-radius: 100%;
+			display: inline-block;
+			height: 18em;
+			margin-left: 3em;
+			vertical-align: middle;
+			width: 18em;
+		}
+
+			.roundimage img {
+				border-radius: 100%;
+				display: block;
+				width: 100%;
+			}
 /* List */
 
 	ol {
